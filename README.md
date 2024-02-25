@@ -1,1 +1,1 @@
-[[Misaka Mikoto orders Anek to work|maskot.png]]
+!(Misaka Mikoto orders Anek to work)[maskot.png]
